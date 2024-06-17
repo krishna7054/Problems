@@ -11,8 +11,8 @@ This repository contains solutions for hashing-related questions in both C++ and
 ## Solutions
 
 ### C++ Solution
-- [Hash Map Implementation](path_to_cpp_file)
-- [Detecting Cycle in Linked List](path_to_cpp_file)
+- [Hash Map Implementation](CppAnswer/Q1.cpp)
+- [Detecting Cycle in Linked List](CppAnswer/Q2.cpp)
 
 ### Java Solution
 - [Hash Map Implementation](path_to_java_file)
