@@ -1,0 +1,7 @@
+Question 1: Hash Map Implementation
+Description:
+Implement a basic hash map (associative array) that supports the following operations:
+
+- put(key, value): Inserts a key-value pair into the hash map. If the key already exists, update the value.
+- get(key): Returns the value associated with the key, or -1 if the key does not exist.
+- remove(key): Removes the key-value pair from the hash map if it exists.

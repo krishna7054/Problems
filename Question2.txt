@@ -1,0 +1,4 @@
+Question 2: Detecting a Cycle in a Linked List using Hashing
+Description:
+Given a singly linked list, determine if it contains a cycle. Implement a function hasCycle(head) that returns true if a cycle is detected,
+and false otherwise. Use a hash set to track visited nodes.
