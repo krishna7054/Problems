@@ -15,11 +15,12 @@ This repository contains solutions for hashing-related questions in both C++ and
 - [Detecting Cycle in Linked List](CppAnswer/Q2.cpp)
 
 ### Java Solution
-- [Hash Map Implementation](path_to_java_file)
-- [Detecting Cycle in Linked List](path_to_java_file)
+- [Hash Map Implementation](JavaAnswer/Q1.java)
+- [Detecting Cycle in Linked List](JavaAnswer/Q2.java)
 
 ## Test Cases
-- [Java Hash Map Test Cases](path_to_java_test_cases_file)
+- [Java Hash Map Test Cases](test.java)
+- Similar in Cpp.
 
 ## Running the Code
 
